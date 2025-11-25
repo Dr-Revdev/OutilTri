@@ -1,8 +1,9 @@
+using TriDownload.Forms;
+
 namespace TriDownload;
 
 static class Program
 {
-
     [STAThread]
     static void Main()
     {
